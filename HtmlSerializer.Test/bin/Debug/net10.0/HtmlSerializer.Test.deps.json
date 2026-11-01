@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "HtmlSerializer.Test/1.0.0": {
+        "dependencies": {
+          "HtmlSerializer": "1.0.0"
+        },
+        "runtime": {
+          "HtmlSerializer.Test.dll": {}
+        }
+      },
+      "HtmlSerializer/1.0.0": {
+        "runtime": {
+          "HtmlSerializer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HtmlSerializer.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlSerializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
